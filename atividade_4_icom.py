@@ -5,7 +5,7 @@ Created on Thu Sep 20 17:54:19 2021
 # Equipe:
 # *   Juliane
 # *   Rubens Lopes
-
+# *   Aline Soares
 """
 
 from numpy import linalg,apply_along_axis
